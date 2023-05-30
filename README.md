@@ -1,6 +1,6 @@
 # Template for Github io pages using Jekyll
 
-Uses https://service-manual.nhs.uk/ to incporate NHS England themes, components and accessibility
+Uses https://service-manual.nhs.uk/ to incporate NHS England themes, components and accessibility.
 
 ## How to run Locally
 
