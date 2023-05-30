@@ -1,4 +1,4 @@
-# Template for Github io pages using Jekyll
+# Template for io pages using Jekyll
 
 Uses https://service-manual.nhs.uk/ to incporate NHS England themes, components and accessibility.
 
