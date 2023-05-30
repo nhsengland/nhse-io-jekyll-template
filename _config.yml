@@ -1,0 +1,10 @@
+domain: nhsengland.github.io
+url: https://nhsengland.github.io
+baseurl: /base
+title: Title
+description: Description
+email: email@nhs.net
+github_username: nhsengland
+plugins:
+  - jemoji
+
