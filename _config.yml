@@ -1,7 +1,7 @@
 domain: nhsengland.github.io
 url: https://nhsengland.github.io
-baseurl: /base
-title: Title
+baseurl: /index
+title: Example Site
 description: Description
 email: email@nhs.net
 github_username: nhsengland
