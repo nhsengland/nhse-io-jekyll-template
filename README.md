@@ -1,6 +1,4 @@
-# Digital Analytics and Research Team - Technical Store
-
-For technical detail of current work going on in the Digital Analytics and Research Team (DART)
+# NHS England Template for Github io pages using Jekyll
 
 Uses https://service-manual.nhs.uk/
 
