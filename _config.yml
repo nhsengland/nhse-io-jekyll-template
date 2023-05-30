@@ -1,6 +1,6 @@
 domain: nhsengland.github.io
 url: https://nhsengland.github.io
-baseurl: /index
+baseurl: /nhse-io-jekyll-template
 repository: nhsengland/nhse-io-jekyll-template
 title: Example Site
 description: Description
